@@ -1,6 +1,6 @@
 # PDF to DOCX Converter With Python
 
-Proyek ini adalah aplikasi web sederhana yang dibangun dengan Flask, yang memungkinkan pengguna untuk mengonversi file PDF menjadi format DOCX. Aplikasi ini menggunakan pustaka `pdf2docx` untuk melakukan konversi.
+Proyek ini adalah aplikasi web sederhana yang dibangun dengan Flask, yang memungkinkan pengguna untuk mengonversi file PDF menjadi format DOCX. Aplikasi ini menggunakan library `pdf2docx` untuk melakukan konversi.
 
 ## Fitur
 
@@ -10,7 +10,7 @@ Proyek ini adalah aplikasi web sederhana yang dibangun dengan Flask, yang memung
 
 ## Prerequisites
 
-Sebelum menjalankan aplikasi ini, pastikan Anda memiliki Python 3 dan pip terinstal di sistem Anda. Anda juga perlu menginstal beberapa pustaka yang diperlukan. Anda dapat melakukan ini dengan perintah berikut:
+Sebelum menjalankan aplikasi ini, pastikan Anda memiliki Python 3 dan pip terinstal di sistem Anda. Anda juga perlu menginstal beberapa library yang diperlukan. Anda dapat melakukan ini dengan perintah berikut:
 
 ```bash
 pip install Flask pdf2docx
